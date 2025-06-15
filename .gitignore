@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code workspace
+.vscode/
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Log files
+*.log
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Azure deployment artifacts
+*.zip
+*.egg-info/
+*.tar.gz
+
+# Local test files
+test-results/
+*.http
+
+# Azure CLI & VS Code deployments
+.azure/
+local.settings.json
+
+# Misc
+*.bak
+*.swp
